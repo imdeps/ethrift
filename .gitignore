@@ -1,0 +1,16 @@
+deps
+ebin
+log
+logs
+*.log
+*.json
+*.php
+*.dump
+start-dev.sh.bak
+tags
+*~
+*.bak*
+*.swp
+api_test
+rebar.config
+.eunit
