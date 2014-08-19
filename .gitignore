@@ -12,5 +12,4 @@ tags
 *.bak*
 *.swp
 api_test
-rebar.config
 .eunit
